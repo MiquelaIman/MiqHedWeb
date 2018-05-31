@@ -1,0 +1,46 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<title>HTML
+		</title>
+
+		<meta name="author" content="Hedda en Miquéla />
+		<meta name="description" content="HTML"/>
+		<meta name="keywords" content="HTML, onze website"/>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="css.css"/>
+
+	</head>
+	
+	<body>
+		<div id="container"> 
+		<div id="header"> 
+			<a href="file://fsmla/users-leerlingen$/MLA19147/Documents/informatica/onze website.html">de eerste computers</a>
+		</div>
+		<div id="menu"> 
+			<table border="1">
+				<caption>afkorting</caption>
+				
+			</table>
+		</div>
+		<div id="breadcrumbs">
+			<a href="index.html" target="_blank" title="Wordt geopend in een nieuw tabblad">Home</a> &raquo; onze website
+		</div>
+		<div id="content">
+			<b>de eerste computers</b>
+				<p>
+					<b>Onze website</b>
+					Welkom op onze website, wij hebben deze gemaakt voor het vak informatica.
+				</p>
+				
+			
+				
+				<iframe width="560" height="315" src="https://www.google.nl/search?q=informatica&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiy8ITnwa_bAhVLOhQKHQpNAasQ_AUICigB&biw=1920&bih=970#imgrc=ab7UFaZzvRGnyM:"</iframe>
+				
+		</div>
+		</div>
+		<div id="footer">
+			&copy;2016 <a href="file://fsmla/users-leerlingen$/MLA19147/Documents/informatica/onze website.html">Hedda en Miquela.</a>Hedda en Miquela. Alle rechten voorbehouden.&trade;	
+		</div>
+	</body>
+</html>
